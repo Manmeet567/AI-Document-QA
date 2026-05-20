@@ -201,7 +201,3 @@ curl -X DELETE http://127.0.0.1:8000/documents/reset
 - Add streaming responses.
 - Add drag-and-drop upload and conversation export.
 - Add tests for services and API routes.
-
-## Resume Bullet
-
-Built a full-stack AI Document Q&A system with FastAPI, React, TypeScript, RAG, ChromaDB persistent vector search, local embeddings, PDF ingestion, and DeepSeek chat completions through the OpenAI-compatible SDK.
